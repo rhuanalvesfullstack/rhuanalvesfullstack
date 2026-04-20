@@ -13,7 +13,6 @@ Atualmente, estou desenvolvendo minhas habilidades em programação, com ênfase
 Busco minha primeira oportunidade como estagiário na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de tecnologia.
 
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -24,6 +23,16 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -66,6 +75,7 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
 <br/>
 <br/>
 

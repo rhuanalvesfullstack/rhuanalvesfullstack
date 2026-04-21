@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Rhuan Alves
 
-**`Desenvolvedor em formação | Full Stack`**
+**`Desenvolvedor em formação | Back-end`**
 
-Sou Rhuan Alves, estudante de Análise e Desenvolvimento de Sistemas (ADS) e do curso técnico em Desenvolvimento de Sistemas, com foco em me tornar desenvolvedor Full Stack.
+Sou Rhuan Alves, estudante de Análise e Desenvolvimento de Sistemas (ADS) e do curso técnico em Desenvolvimento de Sistemas, com foco em me tornar desenvolvedor Back end.
 
 Atualmente, estou desenvolvendo minhas habilidades em programação, com ênfase em lógica, Java e desenvolvimento web. Tenho direcionado meus estudos para a prática, construindo projetos e resolvendo desafios para consolidar meu conhecimento e evoluir de forma consistente.
 

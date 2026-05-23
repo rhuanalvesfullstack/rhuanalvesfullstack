@@ -1,19 +1,58 @@
 # 👨🏻‍💻 Rhuan Alves
 
-**`Desenvolvedor em formação | Back-end`**
+**`Desenvolvedor Full Stack em formação`**
 
-Sou Rhuan Alves, estudante de Análise e Desenvolvimento de Sistemas (ADS) e do curso técnico em Desenvolvimento de Sistemas, com foco em me tornar desenvolvedor Back end.
+Sou Rhuan Alves, estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor em formação, com foco em desenvolvimento Full Stack.
 
-Atualmente, estou desenvolvendo minhas habilidades em programação, com ênfase em lógica, Java e desenvolvimento web. Tenho direcionado meus estudos para a prática, construindo projetos e resolvendo desafios para consolidar meu conhecimento e evoluir de forma consistente.
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, back-end e front-end, criando projetos práticos para evoluir minhas habilidades técnicas e construir experiências reais na área de tecnologia.
+
+Tenho estudado e desenvolvido aplicações utilizando JavaScript, React, Node.js, Express, autenticação JWT, banco de dados SQLite/MySQL e integração entre front-end e back-end.
+
+---
+
+## 🚀 Objetivo
+
+Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar evoluindo como desenvolvedor.
 
 ---
 
-### 🚀 Objetivo
+## 🤖 Linguagens e Tecnologias
 
-Busco minha primeira oportunidade como estagiário na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de tecnologia.
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
 
----
-### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Express"
+    title="Express" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -21,16 +60,7 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 
 <img 
@@ -39,41 +69,43 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="Git"
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQLite"
+    title="SQLite" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
 />
 
 <br/>
@@ -81,16 +113,38 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
 
 ---
 
-### 📚 Atualmente aprendendo
+## 📚 Atualmente aprendendo
 
-- Arrays, loops e métodos em Java  
-- Programação orientada a objetos (POO)  
-- Lógica de programação avançada  
-- Desenvolvimento web (HTML, CSS e JavaScript)
+- React.js
+- Node.js e Express
+- APIs REST
+- JWT Authentication
+- CRUD Full Stack
+- Banco de Dados SQL
+- Git e GitHub
+- Estruturação de projetos Full Stack
 
 ---
 
-### 📊 Estatísticas
+## 🚀 Projeto em destaque
+
+### ⚽ ScoutBR
+
+Plataforma Full Stack para análise de jogadores de futebol.
+
+### Funcionalidades:
+- Login e cadastro
+- Sistema Admin/User
+- CRUD de jogadores
+- Dashboard de estatísticas
+- Autenticação JWT
+- Banco de dados SQLite
+- Front-end React
+- Back-end Node.js + Express
+
+---
+
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -98,7 +152,7 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rhuanalvesfullstack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=RhuanAlvesDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
 
@@ -106,7 +160,9 @@ Busco minha primeira oportunidade como estagiário na área de desenvolvimento, 
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanalvesfullstack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlvesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-</p>
+<br/>
+<br/>
+<br/>

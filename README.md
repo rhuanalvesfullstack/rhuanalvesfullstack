@@ -143,7 +143,7 @@ Backend de um e-commerce streetwear desenvolvido para praticar conceitos de dese
 
 ---
 
-## 📊 Estatísticas
+ 📊 Estatísticas
 
 <p>
   <img 

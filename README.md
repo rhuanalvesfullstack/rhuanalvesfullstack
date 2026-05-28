@@ -4,15 +4,15 @@
 
 Sou Rhuan Alves, estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor em formação, com foco em desenvolvimento Full Stack.
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, back-end e front-end, criando projetos práticos para evoluir minhas habilidades técnicas e construir experiências reais na área de tecnologia.
+Atualmente venho desenvolvendo projetos práticos para aprimorar minhas habilidades em desenvolvimento web, APIs REST, banco de dados e integração entre front-end e back-end.
 
-Tenho estudado e desenvolvido aplicações utilizando JavaScript, React, Node.js, Express, autenticação JWT, banco de dados SQLite/MySQL e integração entre front-end e back-end.
+Tenho conhecimentos em JavaScript, React, Node.js, Express, PostgreSQL, SQLite, Git e GitHub, buscando evoluir constantemente através da prática e construção de aplicações reais.
 
 ---
 
 ## 🚀 Objetivo
 
-Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar evoluindo como desenvolvedor.
+Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior na área de tecnologia, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
 
 ---
 
@@ -92,11 +92,11 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior, ond
 
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
 />
 
 <img 
@@ -118,29 +118,28 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior, ond
 - React.js
 - Node.js e Express
 - APIs REST
-- JWT Authentication
 - CRUD Full Stack
 - Banco de Dados SQL
 - Git e GitHub
 - Estruturação de projetos Full Stack
+- Integração entre Front-end e Back-end
 
 ---
 
 ## 🚀 Projeto em destaque
 
-### ⚽ ScoutBR
+### 🛍️ Swag Wear (Backend)
 
-Plataforma Full Stack para análise de jogadores de futebol.
+Backend de um e-commerce streetwear desenvolvido para praticar conceitos de desenvolvimento Full Stack.
 
 ### Funcionalidades:
-- Login e cadastro
-- Sistema Admin/User
-- CRUD de jogadores
-- Dashboard de estatísticas
-- Autenticação JWT
-- Banco de dados SQLite
-- Front-end React
-- Back-end Node.js + Express
+- API REST com Node.js e Express
+- Cadastro de produtos
+- Integração com PostgreSQL
+- Estruturação de rotas
+- Manipulação de dados
+- Organização de backend
+- Versionamento com Git e GitHub
 
 ---
 
@@ -160,7 +159,7 @@ Plataforma Full Stack para análise de jogadores de futebol.
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlvesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlvesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
 />
 
 <br/>

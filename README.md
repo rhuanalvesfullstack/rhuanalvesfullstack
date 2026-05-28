@@ -19,93 +19,93 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior na �
 ## 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+ align="left" 
+ alt="JavaScript"
+ title="JavaScript" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+ align="left" 
+ alt="React"
+ title="React" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+ align="left" 
+ alt="Node.js"
+ title="Node.js" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="Express"
-    title="Express" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+ align="left" 
+ alt="Express"
+ title="Express" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+ align="left" 
+ alt="Java"
+ title="Java" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+ align="left" 
+ alt="HTML"
+ title="HTML" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+ align="left" 
+ alt="CSS"
+ title="CSS" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+ align="left" 
+ alt="Git"
+ title="Git" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+ align="left" 
+ alt="PostgreSQL"
+ title="PostgreSQL" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
 />
 
 <img 
-    align="left" 
-    alt="SQLite"
-    title="SQLite" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
+ align="left" 
+ alt="SQLite"
+ title="SQLite" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" 
 />
 
 <br/>
@@ -115,53 +115,41 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior na �
 
 ## 📚 Atualmente aprendendo
 
-- React.js
-- Node.js e Express
-- APIs REST
-- CRUD Full Stack
-- Banco de Dados SQL
-- Git e GitHub
-- Estruturação de projetos Full Stack
-- Integração entre Front-end e Back-end
+* React.js
+* Node.js e Express
+* APIs REST
+* CRUD Full Stack
+* Banco de Dados SQL
+* Git e GitHub
+* Estruturação de projetos Full Stack
+* Integração entre Front-end e Back-end
 
 ---
 
 ## 🚀 Projeto em destaque
 
-### 🛍️ Swag Wear (Backend)
+### 🛍️ SwagWear (Backend)
 
 Backend de um e-commerce streetwear desenvolvido para praticar conceitos de desenvolvimento Full Stack.
 
 ### Funcionalidades:
-- API REST com Node.js e Express
-- Cadastro de produtos
-- Integração com PostgreSQL
-- Estruturação de rotas
-- Manipulação de dados
-- Organização de backend
-- Versionamento com Git e GitHub
+
+* API REST com Node.js e Express
+* Cadastro de produtos
+* Integração com PostgreSQL
+* Estruturação de rotas
+* Manipulação de dados
+* Organização de backend
+* Versionamento com Git e GitHub
 
 ---
 
- 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RhuanAlvesDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
+<div align="center">
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlvesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanAlvesDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<br/>
-<br/>
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlvesDev&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+
+</div>

@@ -128,21 +128,49 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior na �
 
 ## 🚀 Projeto em destaque
 
-### 🛍️ SwagWear (Backend)
+### SwagWear (Full Stack)
 
-Backend de um e-commerce streetwear desenvolvido para praticar conceitos de desenvolvimento Full Stack.
+Projeto Full Stack de um e-commerce streetwear desenvolvido para praticar conceitos de desenvolvimento web moderno, APIs REST, banco de dados e integração entre Front-end e Back-end.
 
-### Funcionalidades:
+### Funcionalidades
+
+**Backend**
 
 * API REST com Node.js e Express
-* Cadastro de produtos
-* Integração com PostgreSQL
-* Estruturação de rotas
-* Manipulação de dados
-* Organização de backend
-* Versionamento com Git e GitHub
+* Integração com PostgreSQL utilizando Prisma ORM
+* CRUD de produtos
+* Estruturação de rotas e controllers
+* Manipulação e persistência de dados
+* Autenticação com JWT
+* Controle de acesso por perfil
 
----
+**Frontend**
+
+* Home responsiva
+* Página de catálogo de produtos
+* Busca e filtro de produtos
+* Navegação com React Router
+* Integração com API REST
+* Interface moderna desenvolvida com React
+
+### Tecnologias
+
+* Node.js
+* Express
+* PostgreSQL
+* Prisma ORM
+* JWT
+* React
+* Vite
+* React Router DOM
+* Git e GitHub
+
+### Status
+
+Versão Atual: V2
+
+Em desenvolvimento contínuo com implementação futura de painel administrativo, upload de imagens, carrinho de compras e sistema de autenticação completo.
+
 
 ## 📊 Estatísticas
 
